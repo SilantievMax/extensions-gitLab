@@ -1,0 +1,21 @@
+body {
+  background: #fafafa;
+  padding: 20px;
+}
+
+button {
+  padding: 10px 0;
+  width: 150px;
+  outline: none;
+  background: #fafafa;
+  border: 1px solid silver;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+button:hover {
+  background: #333;
+  color: #fff;
+  border-color: #333;
+}
